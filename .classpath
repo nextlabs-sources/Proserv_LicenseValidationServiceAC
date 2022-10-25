@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="xlib/jar/common-framework-types.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/common-framework.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/common-pf.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/tomcat-juli-7.0.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
